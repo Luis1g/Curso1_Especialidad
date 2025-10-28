@@ -24,3 +24,5 @@ if numero <= 15:
     print("Condición verdadera", numero)
 else:
     print("Condición falsa")
+
+    
